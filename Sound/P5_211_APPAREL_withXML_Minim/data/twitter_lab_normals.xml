@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+  <status>
+    <created_at>Sat Sep 22 18:51:48 +0000 2012</created_at>
+    <id>249581781370675200</id>
+    <text>septembrerer newsletter out - it's #pink , like #pastrami http://t.co/8OQqGPL8</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>484895837</id>
+      <name>N O R M A L S</name>
+      <screen_name>lab_normals</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url_https>
+      <url></url>
+      <description>Design, Programming and writing in anticipation of a http://normalfutu.re - graphic novel soon! </description>
+      <protected>false</protected>
+      <followers_count>67</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>808080</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>121</friends_count>
+      <created_at>Mon Feb 06 16:20:02 +0000 2012</created_at>
+      <favourites_count>66</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>136</statuses_count>
+      <lang>fr</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>2</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat Sep 22 08:23:50 +0000 2012</created_at>
+    <id>249423748745285633</id>
+    <text>#normaltype v1.5.4 is out! Now move 'em parameters! - http://t.co/od6BBBSs</text>
+    <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>484895837</id>
+      <name>N O R M A L S</name>
+      <screen_name>lab_normals</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url_https>
+      <url></url>
+      <description>Design, Programming and writing in anticipation of a http://normalfutu.re - graphic novel soon! </description>
+      <protected>false</protected>
+      <followers_count>67</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>808080</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>121</friends_count>
+      <created_at>Mon Feb 06 16:20:02 +0000 2012</created_at>
+      <favourites_count>66</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>136</statuses_count>
+      <lang>fr</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>2</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>3</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Sep 21 08:01:35 +0000 2012</created_at>
+    <id>249055762146553858</id>
+    <text>N O R M A L S will be speaking + giving a workshop at #Processing Paris on October 2nd, come see us! - http://t.co/AJalXCBj</text>
+    <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>484895837</id>
+      <name>N O R M A L S</name>
+      <screen_name>lab_normals</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url_https>
+      <url></url>
+      <description>Design, Programming and writing in anticipation of a http://normalfutu.re - graphic novel soon! </description>
+      <protected>false</protected>
+      <followers_count>67</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>808080</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>121</friends_count>
+      <created_at>Mon Feb 06 16:20:02 +0000 2012</created_at>
+      <favourites_count>66</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>136</statuses_count>
+      <lang>fr</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>2</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu Sep 20 23:44:54 +0000 2012</created_at>
+    <id>248930765402955776</id>
+    <text>#normaltype version 1.5.4 is out. With motion features and #GIF export! - http://t.co/HDbVdmgU - http://t.co/cUaA15aB</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>484895837</id>
+      <name>N O R M A L S</name>
+      <screen_name>lab_normals</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url_https>
+      <url></url>
+      <description>Design, Programming and writing in anticipation of a http://normalfutu.re - graphic novel soon! </description>
+      <protected>false</protected>
+      <followers_count>67</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>808080</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>121</friends_count>
+      <created_at>Mon Feb 06 16:20:02 +0000 2012</created_at>
+      <favourites_count>66</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>136</statuses_count>
+      <lang>fr</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>2</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Wed Sep 05 08:58:39 +0000 2012</created_at>
+    <id>243271918126518272</id>
+    <text>merci merci @FreeArtbureau &amp;amp; @chevalvert pour hier soir! vivement #ProcessingParis3 #ProcessingNoisyLeSecOuaichTonTon &amp;amp; #ProcessingTourBus</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>484895837</id>
+      <name>N O R M A L S</name>
+      <screen_name>lab_normals</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url_https>
+      <url></url>
+      <description>Design, Programming and writing in anticipation of a http://normalfutu.re - graphic novel soon! </description>
+      <protected>false</protected>
+      <followers_count>67</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>808080</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>121</friends_count>
+      <created_at>Mon Feb 06 16:20:02 +0000 2012</created_at>
+      <favourites_count>66</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>136</statuses_count>
+      <lang>fr</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>2</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>1</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat Sep 01 18:49:20 +0000 2012</created_at>
+    <id>241971016946049024</id>
+    <text>@josephflaherty No offense to them -neers people, the bad taste surely preceded them - Also, nice article ^.^</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>241943768583000065</in_reply_to_status_id>
+    <in_reply_to_user_id>15412900</in_reply_to_user_id>
+    <in_reply_to_screen_name>josephflaherty</in_reply_to_screen_name>
+    <user>
+      <id>484895837</id>
+      <name>N O R M A L S</name>
+      <screen_name>lab_normals</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url_https>
+      <url></url>
+      <description>Design, Programming and writing in anticipation of a http://normalfutu.re - graphic novel soon! </description>
+      <protected>false</protected>
+      <followers_count>67</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>808080</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>121</friends_count>
+      <created_at>Mon Feb 06 16:20:02 +0000 2012</created_at>
+      <favourites_count>66</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>136</statuses_count>
+      <lang>fr</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>2</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat Sep 01 08:51:32 +0000 2012</created_at>
+    <id>241820573792096256</id>
+    <text>What happens when personalization and 3d printing meet the legendary #disney bad taste - via http://t.co/Eb1NdqgQ - http://t.co/IR29yNHc</text>
+    <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>484895837</id>
+      <name>N O R M A L S</name>
+      <screen_name>lab_normals</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url_https>
+      <url></url>
+      <description>Design, Programming and writing in anticipation of a http://normalfutu.re - graphic novel soon! </description>
+      <protected>false</protected>
+      <followers_count>67</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>808080</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>121</friends_count>
+      <created_at>Mon Feb 06 16:20:02 +0000 2012</created_at>
+      <favourites_count>66</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>136</statuses_count>
+      <lang>fr</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>2</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>1</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Tue Aug 28 21:15:15 +0000 2012</created_at>
+    <id>240558184962605056</id>
+    <text>RT @Ecouterre: Augmented-Reality Clothing Evolves With Its Wearer in Real Time http://t.co/yL2qlM5P [Thanks for the article!]</text>
+    <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>484895837</id>
+      <name>N O R M A L S</name>
+      <screen_name>lab_normals</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url_https>
+      <url></url>
+      <description>Design, Programming and writing in anticipation of a http://normalfutu.re - graphic novel soon! </description>
+      <protected>false</protected>
+      <followers_count>67</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>808080</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>121</friends_count>
+      <created_at>Mon Feb 06 16:20:02 +0000 2012</created_at>
+      <favourites_count>66</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>136</statuses_count>
+      <lang>fr</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>2</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Tue Aug 28 09:55:24 +0000 2012</created_at>
+    <id>240387093929545728</id>
+    <text>RT @cedricflazinski: A Day Made of Glass http://t.co/AcdGqg1F + Cities of Glass http://t.co/ofIdaJO6 #normalfuture [If i had a hammer...]</text>
+    <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>484895837</id>
+      <name>N O R M A L S</name>
+      <screen_name>lab_normals</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url_https>
+      <url></url>
+      <description>Design, Programming and writing in anticipation of a http://normalfutu.re - graphic novel soon! </description>
+      <protected>false</protected>
+      <followers_count>67</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>808080</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>121</friends_count>
+      <created_at>Mon Feb 06 16:20:02 +0000 2012</created_at>
+      <favourites_count>66</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>136</statuses_count>
+      <lang>fr</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>2</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon Aug 27 11:19:10 +0000 2012</created_at>
+    <id>240045788720402432</id>
+    <text>#facebook and the tiny hidden info symbol trick - via http://t.co/RpyMamLW and @doctorow - http://t.co/TpDSk1FO</text>
+    <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>484895837</id>
+      <name>N O R M A L S</name>
+      <screen_name>lab_normals</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2274617581/010wedzb1txvoeud16yg_normal.png</profile_image_url_https>
+      <url></url>
+      <description>Design, Programming and writing in anticipation of a http://normalfutu.re - graphic novel soon! </description>
+      <protected>false</protected>
+      <followers_count>67</followers_count>
+      <profile_background_color>FFFFFF</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>808080</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>121</friends_count>
+      <created_at>Mon Feb 06 16:20:02 +0000 2012</created_at>
+      <favourites_count>66</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/569359910/0dlfmd7ocvizdb18r9nh.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>136</statuses_count>
+      <lang>fr</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>2</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+</statuses>

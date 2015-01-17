@@ -1,0 +1,19 @@
+#	3dto3d engine by tb-software.com (support@tb-software.com)
+#	Created by WaveFront Export Plugin 1.0 at Sun Mar 16 13:37:42 2008
+#	Alias Wavefront
+newmtl DEFAULT
+	Ns 0
+	d 1.000
+	illum 2
+	Kd 0.600 0.600 0.600
+	Ks 1.000 1.000 1.000
+	Ka 0.300 0.300 0.300
+
+newmtl Material
+	Ns 0
+	d 1.000
+	illum 2
+	Kd 0.600 0.600 0.600
+	Ks 1.000 1.000 1.000
+	Ka 0.300 0.300 0.300
+

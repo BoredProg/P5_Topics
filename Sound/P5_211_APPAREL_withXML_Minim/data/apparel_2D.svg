@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="640px" height="480px" viewBox="-0.371 -2.099 640 480" enable-background="new -0.371 -2.099 640 480"
+	 xml:space="preserve">
+<defs>
+</defs>
+<polygon fill="none" stroke="#333333" points="95.909,63.772 0.629,255.962 130.202,357.464 "/>
+<polygon fill="none" stroke="#333333" points="111.18,54.249 95.909,63.772 149.708,234.78 "/>
+<polygon fill="none" stroke="#333333" points="130.202,357.464 149.708,234.78 95.909,63.772 "/>
+<polygon fill="none" stroke="#333333" points="130.202,357.464 149.708,234.78 219.888,384.146 "/>
+<polygon fill="none" stroke="#333333" points="111.18,54.249 219.888,384.146 149.708,234.78 "/>
+<polygon fill="none" stroke="#333333" points="111.625,32.336 95.909,63.772 111.18,54.249 "/>
+<polygon fill="none" stroke="#333333" points="111.625,32.336 219.498,125.514 111.18,54.249 "/>
+<polygon fill="none" stroke="#333333" points="173.069,22.333 111.625,32.336 219.498,125.514 "/>
+<polygon fill="none" stroke="#333333" points="173.069,22.333 219.498,47.08 219.498,125.514 "/>
+<polygon fill="none" stroke="#333333" points="173.069,22.333 186.237,0.901 219.498,47.08 "/>
+<polygon fill="none" stroke="#333333" points="186.237,0.901 219.498,0.901 219.498,47.08 "/>
+<polygon fill="none" stroke="#333333" points="219.498,125.514 219.888,384.146 111.18,54.249 "/>
+<polygon fill="none" stroke="#333333" points="343.087,63.772 438.365,255.962 308.793,357.464 "/>
+<polygon fill="none" stroke="#333333" points="327.815,54.249 343.087,63.772 289.287,234.78 "/>
+<polygon fill="none" stroke="#333333" points="308.793,357.464 289.287,234.78 343.087,63.772 "/>
+<polygon fill="none" stroke="#333333" points="308.793,357.464 289.287,234.78 219.108,384.146 "/>
+<polygon fill="none" stroke="#333333" points="327.815,54.249 219.108,384.146 289.287,234.78 "/>
+<polygon fill="none" stroke="#333333" points="327.371,32.336 343.087,63.772 327.815,54.249 "/>
+<polygon fill="none" stroke="#333333" points="327.371,32.336 219.498,125.514 327.815,54.249 "/>
+<polygon fill="none" stroke="#333333" points="265.927,22.333 327.371,32.336 219.498,125.514 "/>
+<polygon fill="none" stroke="#333333" points="265.927,22.333 219.498,47.08 219.498,125.514 "/>
+<polygon fill="none" stroke="#333333" points="265.927,22.333 252.759,0.901 219.498,47.08 "/>
+<polygon fill="none" stroke="#333333" points="252.759,0.901 219.498,0.901 219.498,47.08 "/>
+<polygon fill="none" stroke="#333333" points="219.498,125.514 219.108,384.146 327.815,54.249 "/>
+</svg>
